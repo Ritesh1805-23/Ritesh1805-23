@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hey  ##, I'm Ritesh — Civil Engineer turned Aspiring Data Scientist
 
-<!--
-**Ritesh1805-23/Ritesh1805-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning from civil engineering to solving real-world problems with Data Science and AI. I specialize in using Python to build end-to-end machine learning projects, especially in the engineering and automation space.
 
-Here are some ideas to get you started:
+🔧 Tools I Use:
+Python • Pandas • Numpy • Matplotlib • Seaborn • Scikit-learn • Google Colab • Streamlit • OpenAI API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Current Focus:
+- Building portfolio projects from real civil/engineering datasets
+- Practicing machine learning algorithms with real business goals
+- Posting my journey and learnings on LinkedIn
+
+---
+
+## 🚀 Projects I'm Working On
+
+- **🧱 Construction Cost Estimator (Regression)**  
+  Predicts construction costs based on material, labor, and area inputs  
+  _Status: Coming soon_
+
+- **⚙️ Equipment Failure Predictor (Classification)**  
+  Predicts potential failures in machinery based on sensor data  
+  _Status: Coming soon_
+
+- **🤖 Resume Match Score App (LLM + Streamlit)**  
+  Uses OpenAI to analyze resumes and job descriptions for compatibility  
+  _Status: Coming soon_
+
+---
+
+📬 Let's Connect: [LinkedIn → Ritesh Patil](https://www.linkedin.com/in/ritesh-patil-631651218)  
+📂 Full case studies and notebooks coming soon. Follow along as I learn, build, and grow!
