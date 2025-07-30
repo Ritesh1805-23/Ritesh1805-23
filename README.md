@@ -28,7 +28,7 @@ Python • Pandas • Numpy • Matplotlib • Seaborn • Scikit-learn • Goog
 
 ---
 
-📬 Let's Connect: [LinkedIn → Ritesh Patil](https://www.linkedin.com/in/ritesh-patil-631651218) 
+📬 Let's Connect: [LinkedIn → Ritesh Patil](https://www.linkedin.com/in/ritesh-patil-631651218) &
                   [Twitter → Ritesh Patil](https://x.com/Ritesh_Patil1)
 
 📂 Full case studies and notebooks coming soon. Follow along as I learn, build, and grow!
