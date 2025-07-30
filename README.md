@@ -1,11 +1,11 @@
-## 👋 Hey  ##, I'm Ritesh — Civil Engineer turned Aspiring Data Scientist
+##  Hey  ##, I'm Ritesh — Civil Engineer turned Aspiring Data Scientist
 
 I'm transitioning from civil engineering to solving real-world problems with Data Science and AI. I specialize in using Python to build end-to-end machine learning projects, especially in the engineering and automation space.
 
-🔧 Tools I Use:
+ Tools I Use:
 Python • Pandas • Numpy • Matplotlib • Seaborn • Scikit-learn • Google Colab • Streamlit • OpenAI API
 
-🧠 Current Focus:
+ Current Focus:
 - Building portfolio projects from real civil/engineering datasets
 - Practicing machine learning algorithms with real business goals
 - Posting my journey and learnings on LinkedIn
@@ -14,15 +14,15 @@ Python • Pandas • Numpy • Matplotlib • Seaborn • Scikit-learn • Goog
 
 ## 🚀 Projects I'm Working On
 
-- **🧱 Construction Cost Estimator (Regression)**  
+- ** Construction Cost Estimator (Regression)**  
   Predicts construction costs based on material, labor, and area inputs  
   _Status: Coming soon_
 
-- **⚙️ Equipment Failure Predictor (Classification)**  
+- ** Equipment Failure Predictor (Classification)**  
   Predicts potential failures in machinery based on sensor data  
   _Status: Coming soon_
 
-- **🤖 Resume Match Score App (LLM + Streamlit)**  
+- ** Resume Match Score App (LLM + Streamlit)**  
   Uses OpenAI to analyze resumes and job descriptions for compatibility  
   _Status: Coming soon_
 
