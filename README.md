@@ -1,4 +1,4 @@
-##  Hey  ##, I'm Ritesh — Civil Engineer turned Aspiring Data Scientist
+##  Hey  ## , I'm Ritesh — Civil Engineer turned Aspiring Data Scientist
 
 I'm transitioning from civil engineering to solving real-world problems with Data Science and AI. I specialize in using Python to build end-to-end machine learning projects, especially in the engineering and automation space.
 
